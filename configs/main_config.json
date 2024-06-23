@@ -1,0 +1,16 @@
+{
+    "main": {
+        "db_info": {
+            "main_db_path": "./PAINT.db",
+            "backup_db_path": "./backup/BACK.db"
+        }
+    },
+    "system": {
+        "start_index": 0
+    },
+    "resource": {
+        "buzz_err": "./soundfiles/buzz_err.wav",
+        "ring_err": "./soundfiles/ring_err.wav",
+        "bing_info": "./soundfiles/bing_info.wav"
+    }
+}
